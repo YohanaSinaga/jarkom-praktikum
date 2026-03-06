@@ -4,9 +4,9 @@
 ### Identitas Praktikan
 | Item | Keterangan |
 |------|------------|
-| **Nama** | [Nama Lengkap Anda] |
-| **NIM** | [NIM Anda] |
-| **Kelas** | [Kelas Anda, misal: IF-04-01] |
+| **Nama** | [Yohana Sinaga] |
+| **NIM** | [103072400009] |
+| **Kelas** | [IF-04-01] |
 
 ---
 
@@ -73,26 +73,17 @@ Berikut adalah langkah-langkah yang dilakukan selama praktikum Modul 1:
    - **Packet Bytes**: Representasi hex dari paket
 
 ---
-kjasdhasjgjhashvhdgfvsdsgcvhsdgvcgsdvhc
 
 
-saya cantik kan mas?
+
 ## 4. Hasil dan Pembahasan
 
 ### 4.1 Tampilan Awal Wireshark
 Berikut adalah tampilan awal Wireshark sebelum membuka file trace. Terlihat daftar interface jaringan yang tersedia.
 
-![Tampilan Awal Wireshark](assets/gambar1.png)  
+![Tampilan Awal Wireshark](assets/tampilanWireshark.png)  
 *Gambar 1: Tampilan awal Wireshark saat pertama kali dibuka.*
 
-### 4.2 Membuka File soal1.pcap
-File `soal1.pcap` berhasil dibuka. Berikut adalah tangkapan layar saat file trace dimuat ke dalam Wireshark.
-
-![Membuka soal1.pcap](images/wireshark_soal1.png)  
-*Gambar 2: Tampilan Wireshark setelah membuka file soal1.pcap dari LMS.*
-
-### 4.3 Analisis Singkat Paket
-Pada file `soal1.pcap`, dapat dilihat beberapa protokol yang tertangkap. Berikut adalah detail salah satu paket yang dipilih (misalnya paket HTTP atau TCP pertama).
 
 | No. | Field | Value |
 |-----|-------|-------|
@@ -105,32 +96,25 @@ Pada file `soal1.pcap`, dapat dilihat beberapa protokol yang tertangkap. Berikut
 ![Detail Paket](images/wireshark_detail.png)  
 *Gambar 3: Detail paket pada jendela Packet Details.*
 
-### 4.4 Verifikasi Python
+### 4.2 Verifikasi Python
 Berikut adalah tangkapan layar Command Prompt/Terminal saat mengecek versi Python untuk memastikan tools siap digunakan pada modul selanjutnya (Modul 7 & 9).
 
 ```bash
 $ python --version
-Python 3.11.0
+Python 3.14.2
 ```
 
-![Cek Python](assets/python_version.png)  
+![Cek Python](assets/python.png)  
 *Gambar 4: Verifikasi instalasi Python melalui command line.*
 
 ---
 
-## 5. Kesimpulan
+## 4.3. Kesimpulan
 Berdasarkan praktikum Modul 1 ini, dapat disimpulkan bahwa:
 1. Praktikan telah memahami aturan main, sistem penilaian, dan sanksi yang berlaku di Laboratorium Informatika Universitas Telkom.
 2. Tools utama yaitu **Wireshark** dan **Python** telah berhasil diinstall dan berfungsi dengan baik.
 3. Praktikan mampu membuka file trace (`.pcap`) dan memahami antarmuka dasar Wireshark yang akan digunakan pada modul-modul selanjutnya (HTTP, DNS, TCP, dll).
 4. Kesiapan tools ini sangat penting untuk kelancaran praktikum hingga penyusunan Tugas Besar.
-
----
-
-## 6. Lampiran
-- [ ] File `soal1.pcap` *(Jika diizinkan untuk dilampirkan)*
-- [ ] Dokumentasi foto saat praktikum *(Opsional)*
-- [ ] Screenshot hasil verifikasi tools
 
 ---
 
@@ -153,8 +137,7 @@ modul-1/
 
 ---
 
-> **Dibuat oleh:** [Nama Anda]  
-> **Tanggal:** [DD/MM/YYYY]  
+> **Dibuat oleh:** [Yohana Sinaga]   
 > **Mata Kuliah:** Jaringan Komputer - Modul 1  
 > **Institusi:** Universitas Telkom  
 
