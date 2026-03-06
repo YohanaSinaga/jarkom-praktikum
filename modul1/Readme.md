@@ -73,13 +73,13 @@ Berikut adalah langkah-langkah yang dilakukan selama praktikum Modul 1:
    - **Packet Bytes**: Representasi hex dari paket
 
 ---
-
+kjasdhasjgjhashvhdgfvsdsgcvhsdgvcgsdvhc
 ## 4. Hasil dan Pembahasan
 
 ### 4.1 Tampilan Awal Wireshark
 Berikut adalah tampilan awal Wireshark sebelum membuka file trace. Terlihat daftar interface jaringan yang tersedia.
 
-![Tampilan Awal Wireshark](assets/wireshark_home.png)  
+![Tampilan Awal Wireshark](assets/gambar1.png)  
 *Gambar 1: Tampilan awal Wireshark saat pertama kali dibuka.*
 
 ### 4.2 Membuka File soal1.pcap
