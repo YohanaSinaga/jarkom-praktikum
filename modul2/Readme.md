@@ -1,4 +1,3 @@
-```markdown
 # Laporan Praktikum Jaringan Komputer - Modul 2
 ## Pengenalan Tools (Wireshark Basics)
 
@@ -129,7 +128,7 @@ Berdasarkan praktikum Modul 2 ini, dapat disimpulkan bahwa:
 ## 6. Daftar Pustaka
 1. Kurose, J.F., & Ross, K.W. (2021). *Computer Networking: A Top-Down Approach*, 8th Edition. Pearson.
 2. Universitas Telkom. (2026). *Modul Praktikum Jaringan Komputer Semester Genap 2025/2026*. Fakultas Informatika.
-3. Wireshark Foundation. (2024). *Wireshark User's Guide*. Retrieved from https://www.wireshark.org/docs/
+3. Wireshark Foundation. (2024). *Wireshark User's Guide*. Retrieved from https://www.wireshark.org/docs/  
 
 ---
 
@@ -147,4 +146,3 @@ Berdasarkan praktikum Modul 2 ini, dapat disimpulkan bahwa:
 >       └── 🖼️ wireshark_packet_bytes.png
 >   ```
 > - File README.md ini menggunakan sintaks Markdown standar dan kompatibel dengan GitHub, GitLab, dan viewer Markdown lainnya.
-```
