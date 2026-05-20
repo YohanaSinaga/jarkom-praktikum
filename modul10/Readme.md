@@ -64,12 +64,12 @@ Dari screenshot di atas, terlihat paket-paket ICMP dengan berbagai TTL:
 
 | No | Frame | Source | Destination | TTL | Info |
 |----|-------|--------|-------------|-----|------|
-| 1 | - | 10.217.2.148 | 128.119.245.12 | 4 | Echo (ping) request |
-| 2 | - | 180.240.190.101 | 10.217.2.148 | - | Time-to-live exceeded |
-| 3 | - | 10.217.2.148 | 128.119.245.12 | 5 | Echo (ping) request |
-| 4 | - | 180.240.191.122 | 10.217.2.148 | - | Time-to-live exceeded |
-| 5 | - | 10.217.2.148 | 128.119.245.12 | 6 | Echo (ping) request |
-| 6 | - | 180.240.198.74 | 10.217.2.148 | - | Time-to-live exceeded |
+| 1 | 47 | 10.217.2.148 | 128.119.245.12 | 4 | Echo (ping) request |
+| 2 | 49 | 180.240.190.101 | 10.217.2.148 | - | Time-to-live exceeded |
+| 3 | 210 | 10.217.2.148 | 128.119.245.12 | 5 | Echo (ping) request |
+| 4 | 307 | 180.240.191.122 | 10.217.2.148 | - | Time-to-live exceeded |
+| 5 | 416 | 10.217.2.148 | 128.119.245.12 | 6 | Echo (ping) request |
+| 6 | 418 | 180.240.198.74 | 10.217.2.148 | - | Time-to-live exceeded |
 
 **Penjelasan:**
 - **Paket ungu/merah muda**: ICMP Echo Request dari client dengan TTL increasing (4, 5, 6, ...)
